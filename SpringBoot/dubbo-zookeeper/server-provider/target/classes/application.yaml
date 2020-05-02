@@ -1,0 +1,14 @@
+server:
+  #端口
+  port: 9001
+dubbo:
+  application:
+    #服务名称，就是本服务的名字，不能错
+    name: server-provider
+    #注册中心的地址，如果分离部署的，ip需要改成实际部署的服务器的IP地址
+  registry:
+    protocol: zookeeper
+    address: zookeeper://127.0.0.1:2181
+    #扫描包
+  scan:
+    base-packages: com.service

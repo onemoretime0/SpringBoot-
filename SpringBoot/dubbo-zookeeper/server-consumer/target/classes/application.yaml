@@ -1,0 +1,7 @@
+server:
+  port: 9002
+dubbo:
+  application:
+    name: server-comumer
+  registry:
+    address: zookeeper://127.0.0.1:2181

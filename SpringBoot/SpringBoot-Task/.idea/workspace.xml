@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3be9a076-8373-47ad-a97f-d6bf69f1b5e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven\repository" />
+        <option name="mavenHome" value="F:/Maven/maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Maven\maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aojeSjPbLtYa7b6Ir1CeRTfjiE" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot-Swagger" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootTaskApplication">
+    <configuration name="SpringbootTaskApplicationTests.complexMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.SpringbootTaskApplicationTests" />
+      <option name="METHOD_NAME" value="complexMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTaskApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.SpringbootTaskApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot-Task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.SpringbootTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootTaskApplicationTests.complexMail" />
+        <item itemvalue="JUnit.SpringbootTaskApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3be9a076-8373-47ad-a97f-d6bf69f1b5e9" name="Default Changelist" comment="" />
+      <created>1587408935441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587408935441</updated>
+      <workItem from="1587408949448" duration="12159000" />
+      <workItem from="1587476058048" duration="1345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587414399485">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="414" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1587414399485" />
+    <state x="488" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1587412306792">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1587412306792" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1587409504980">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1587409504980" />
+    <state width="1321" height="318" key="GridCell.Tab.0.bottom" timestamp="1587436585026">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587436585026" />
+    <state width="1321" height="318" key="GridCell.Tab.0.center" timestamp="1587436585026">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587436585026" />
+    <state width="1321" height="318" key="GridCell.Tab.0.left" timestamp="1587436585026">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587436585026" />
+    <state width="1321" height="318" key="GridCell.Tab.0.right" timestamp="1587436585026">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587436585026" />
+    <state width="1321" height="318" key="GridCell.Tab.1.bottom" timestamp="1587436585017">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587436585017" />
+    <state width="1321" height="318" key="GridCell.Tab.1.center" timestamp="1587436585017">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1587436585017" />
+    <state width="1321" height="318" key="GridCell.Tab.1.left" timestamp="1587436585016">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1587436585016" />
+    <state width="1321" height="318" key="GridCell.Tab.1.right" timestamp="1587436585017">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1321" height="318" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1587436585017" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1587419395906">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587419395906" />
+    <state x="291" y="61" width="784" height="646" key="find.popup" timestamp="1587409702483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="291" y="61" width="784" height="646" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1587409702483" />
+    <state x="118" y="81" key="new project wizard" timestamp="1587524927362">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="118" y="81" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1587524927362" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587419537915">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587419537915" />
+  </component>
+</project>
